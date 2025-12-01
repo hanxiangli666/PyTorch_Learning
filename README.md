@@ -1,6 +1,6 @@
 # PyTorch 学习之路 🚀
 
-这是我从零开始学习 PyTorch 深度学习框架的代码仓库。
+这是我从零开始学习 PyTorch 深度学习框架的代码仓库
 
 ## 📂 项目结构
 - `tensor_practice.py`: 张量 (Tensor) 的基础操作与 GPU 加速
